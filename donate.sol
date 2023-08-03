@@ -27,14 +27,6 @@ contract donate{
 
     
 
-
-
-
-
-   
-
-   
-
     uint firstBlock;
     uint lastBlock;
 
